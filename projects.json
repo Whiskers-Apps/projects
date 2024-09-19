@@ -1,0 +1,38 @@
+[
+  {
+    "repo": "https://github.com/Whiskers-Apps/wl-whiskers-palette-extension",
+    "name": "Whiskers Palette Extension",
+    "languages": ["rust"],
+    "platforms": ["windows", "linux"]
+  },
+  {
+    "repo": "https://github.com/Whiskers-Apps/sniffer-kt",
+    "name": "Sniffer Kotlin",
+    "languages": ["kotlin"],
+    "platforms": []
+  },
+  {
+    "repo": "https://github.com/Whiskers-Apps/sniffer-rs",
+    "name": "Sniffer Rust",
+    "languages": ["rust"],
+    "platforms": []
+  },
+  {
+    "repo": "https://github.com/Whiskers-Apps/tux-icons",
+    "name": "Tux Icons",
+    "languages": ["rust"],
+    "platforms": ["linux"]
+  },
+  {
+    "repo": "https://github.com/Whiskers-Apps/whiskers-launcher",
+    "name": "Whiskers Launcher",
+    "languages": ["rust", "typescript"],
+    "platforms": ["windows", "linux"]
+  },
+  {
+    "repo": "https://github.com/Whiskers-Apps/claw-launcher",
+    "name": "Claw Launcher",
+    "languages": ["kotlin"],
+    "platforms": ["android"]
+  }
+]
