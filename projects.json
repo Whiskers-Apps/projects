@@ -2,36 +2,42 @@
   {
     "repo": "https://github.com/Whiskers-Apps/wl-whiskers-palette-extension",
     "name": "Whiskers Palette Extension",
+    "banner": "https://raw.githubusercontent.com/Whiskers-Apps/assets/refs/heads/master/banners/projects/wl-whiskers-palette.webp",
     "languages": ["rust"],
     "platforms": ["windows", "linux"]
   },
   {
     "repo": "https://github.com/Whiskers-Apps/sniffer-kt",
     "name": "Sniffer Kotlin",
+    "banner": "https://raw.githubusercontent.com/Whiskers-Apps/assets/refs/heads/master/banners/projects/sniffer-kt.webp",
     "languages": ["kotlin"],
     "platforms": []
   },
   {
     "repo": "https://github.com/Whiskers-Apps/sniffer-rs",
     "name": "Sniffer Rust",
+    "banner": "https://raw.githubusercontent.com/Whiskers-Apps/assets/refs/heads/master/banners/projects/sniffer-rs.webp",
     "languages": ["rust"],
     "platforms": []
   },
   {
     "repo": "https://github.com/Whiskers-Apps/tux-icons",
     "name": "Tux Icons",
+    "banner": "https://raw.githubusercontent.com/Whiskers-Apps/assets/refs/heads/master/banners/projects/tux-icons.webp",
     "languages": ["rust"],
     "platforms": ["linux"]
   },
   {
     "repo": "https://github.com/Whiskers-Apps/whiskers-launcher",
     "name": "Whiskers Launcher",
+    "banner": "https://raw.githubusercontent.com/Whiskers-Apps/assets/refs/heads/master/banners/projects/whiskers-launcher.webp",
     "languages": ["rust", "typescript"],
     "platforms": ["windows", "linux"]
   },
   {
     "repo": "https://github.com/Whiskers-Apps/claw-launcher",
     "name": "Claw Launcher",
+    "banner": "https://raw.githubusercontent.com/Whiskers-Apps/assets/refs/heads/master/banners/projects/claw-launcher.webp",
     "languages": ["kotlin"],
     "platforms": ["android"]
   }
